@@ -4,6 +4,7 @@ import org.springframework.stereotype.Service;
 import ru.netology.rest.exception.InvalidCredentials;
 import ru.netology.rest.exception.UnauthorizedUser;
 import ru.netology.rest.model.Authorities;
+import ru.netology.rest.repository.UserRepository;
 
 import java.util.List;
 
