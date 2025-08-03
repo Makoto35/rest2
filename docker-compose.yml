@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  authorization-service: # Имя контейнера
+    build: .               # Сборка образа из текущей директории
+    ports:
+      - "8080:8080"       # Проброс порта: хост:контейнер
+    container_name: rest-app # Опциональное имя контейнера

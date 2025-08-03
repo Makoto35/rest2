@@ -1,0 +1,9 @@
+ru\netology\rest\repository\UserRepository$UserData.class
+ru\netology\rest\advice\ExceptionHandlerAdvice.class
+ru\netology\rest\model\Authorities.class
+ru\netology\rest\exception\InvalidCredentials.class
+ru\netology\rest\RestApplication.class
+ru\netology\rest\service\AuthorizationService.class
+ru\netology\rest\controller\AuthorizationController.class
+ru\netology\rest\repository\UserRepository.class
+ru\netology\rest\exception\UnauthorizedUser.class
